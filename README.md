@@ -136,9 +136,10 @@
 
 - #### :man_teacher: [Computer Security Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse484/)
 
+- #### :man_teacher: [Computer Systems Security Course by Nickolai Zeldovich](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
+
 - #### :man_teacher: [Software and Security Engineering Course by Ross Anderson](https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/materials.html)
 
-- #### :man_teacher: [Computer Systems Security Course by Nickolai Zeldovich](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
 - #### :man_teacher: [Principles of Computer Systems Course by Nickolai Zeldovich](https://6826.csail.mit.edu/2020/)
 
 - #### :man_teacher: [Software Foundations of Security and Privacy Course by Jean Yang](https://github.com/jeanqasaur/cmu-15316-spring17)
@@ -235,6 +236,8 @@
 
 - #### :man_teacher: [Advanced Operating Systems Course by Robert Watson](https://www.cl.cam.ac.uk/teaching/2122/AOS/materials.html)
 
+- #### :man_technologist: [How to Create an OS from Scratch Tutorial by Carlos Fenollosa](https://github.com/cfenollosa/os-tutorial)
+
 - #### :man_teacher: [Advanced Operating Systems Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/736/Spring2014/)
 
 - #### :man_teacher: [Distributed and Operating Systems Course by Prashant Shenoy](https://none.cs.umass.edu/~shenoy/courses/677/lectures.html)
@@ -242,8 +245,6 @@
 - #### :man_teacher: [Operating Systems and System Programming Course by Ion Stoica](https://inst.eecs.berkeley.edu/~cs162/fa21/)
 
 - #### :man_teacher: [Operating Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse551/)
-
-- #### :man_technologist: [How to Create an OS from Scratch Tutorial by Carlos Fenollosa](https://github.com/cfenollosa/os-tutorial)
 
 - #### :man_teacher: [Introduction to Operating Systems Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/)
 
