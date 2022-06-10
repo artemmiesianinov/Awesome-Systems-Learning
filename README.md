@@ -38,7 +38,37 @@
 
 ## :racing_car: Assembly Programming
 
+- #### :man_technologist: [LLVM Tutorials](https://llvm.org/docs/tutorial/)
+
+- #### :book: [Learn LLVM 12 Book by Kai Nacke](https://github.com/PacktPublishing/Learn-LLVM-12)
+
+- #### :man_technologist: [NASM Assembly Language Tutorials](https://asmtutor.com/)
+
+- #### :book: [The Holy Book of x86 by Arash Tohidi](https://github.com/Captainarash/The_Holy_Book_of_X86)
+
+- #### :tv: [Modern x64 Assembly Videos by Creel](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA)
+
+- #### :tv: [Intro to x86 Assembly by Davy Wybiral](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
+
+- #### :man_teacher: [UNIX Weapons School Course by Nick Black](https://nick-black.com/dankwiki/index.php/UNIX_Weapons_School)
+
+- #### :man_teacher: [Introduction to ARM Course by David Thomas](http://www.davespace.co.uk/arm/introduction-to-arm/index.html)
+
+- #### :thought_balloon: [Say Hello to x86_64 Assembly Blog Posts by 0xAX](https://0xax.github.io/archive/)
+
+- #### :man_teacher: [Assembly Language Programming Courses by Aven Bross](https://docs.google.com/document/d/e/2PACX-1vQOy_S-NkOwHxovtzo13BQloFZsio_FGmOzj7eXg_fF6c2-rWomY468IYcbJ6s0O7qiVXOg3BHcm86R/pub)
+
+- #### :man_teacher: [Assembly Language Programming Course by James Wilson](https://github.com/jameswilson281/CIS---11-Assembly-Programming)
+
+- #### :man_teacher: [What If You Knew How Computers Work? Web Site by xorpd](https://www.xorpd.net/)
+
+- #### :man_teacher: [x86 Assembly Primer for C Programmers Slides by Ivan Sergeev](https://github.com/vsergeev/apfcp/blob/master/apfcp.pdf)
+
 - #### :man_teacher: [The Hardware/Software Interface Course from University of Washington](http://courses.cs.washington.edu/courses/cse351/)
+
+- #### :book: [Programming with 64-Bit ARM Assembly Language Book by Stephen Smith](https://github.com/Apress/programming-with-64-bit-ARM-assembly-language)
+
+- #### :man_teacher: [Assembly Programming and Reverse Engineering Courses by OpenSecurityTraining2](https://p.ost2.fyi/)
 
 ## :chains: Blockchain Technology
 
@@ -86,15 +116,47 @@
 
 ## :dragon_face: Compiler Construction
 
+- #### :man_teacher: [Compilers Course by Nicolas Laurent](https://norswap.com/compilers/)
+
+- #### :man_teacher: [Compilers Course by Fredrik Kjolstad](https://web.stanford.edu/class/cs143/)
+
+- #### :man_teacher: [Compiler Construction Course by Pat Morin](https://cglab.ca/~morin/teaching/3002/)
+
+- #### :movie_camera: [Zig Compiler Live Streams by Andrew Kelley](https://vimeo.com/andrewrk)
+
 - #### :man_teacher: [Optimising Compilers Course by Timothy Jones](https://www.cl.cam.ac.uk/teaching/2122/OptComp/materials.html)
+
+- #### :man_teacher: [Compiler Optimisation Course by Hugh Leather](https://www.inf.ed.ac.uk/teaching/courses/copt/)
+
+- #### :man_teacher: [Advanced Compilers Course by Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2022sp/)
 
 - #### :man_teacher: [Compiler Construction Course by Timothy Griffin](https://www.cl.cam.ac.uk/teaching/2122/CompConstr/materials.html)
 
+- #### :man_teacher: [Compiler Construction Course by Alexander Kurz](https://github.com/alexhkurz/compiler-construction-2022)
+
+- #### :man_teacher: [Compilers Course by Jeremy Siek and Caner Derici](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/)
+
+- #### :tv: [Make a Compiler in C Videos by Sebastian Karlsson](https://www.youtube.com/playlist?list=PLvaIU2QC2uvFnVxXe-XzXJfd4dXGz5qBB)
+
+- #### :tv: [Building a Compiler in C# Videos by Immo Landwerth](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
+
 - #### :man_teacher: [Compiler Construction Course from University of Washington](http://courses.cs.washington.edu/courses/csep501/)
+
+- #### :man_teacher: [Design and Construction of Compilers Course by Leonidas Fegaras](https://lambda.uta.edu/cse5317/)
+
+- #### :tv: [Write a Programming Language Compiler Videos by Viktor Engelmann](https://www.youtube.com/playlist?list=PLHh55M_Kq4OAmzC6zR7NXhZT9z21NkRCa)
+
+- #### :tv: [How to Build a Compiler with LLVM and MLIR Videos by Sameer Rahmani](https://www.youtube.com/playlist?list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5)
 
 - #### :man_teacher: [Introduction to Compiler Construction Course from University of Washington](http://courses.cs.washington.edu/courses/cse401/)
 
+- #### :man_teacher: [Computer Language Engineering Course by Saman Amarasinghe and Martin Rinard](https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/)
+
+- #### :book: [Implementing Programming Languages: An Introduction to Compilers and Interpreters Book by Aarne Ranta](http://www.grammaticalframework.org/ipl-book/)
+
 ## :cityscape: Computer Architecture
+
+- #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
 
 - #### :man_teacher: [Computer Architecture Course by Onur Mutlu](https://safari.ethz.ch/architecture/doku.php)
 
@@ -102,13 +164,15 @@
 
 - #### :man_teacher: [Computer Architecture Course by Charles Reiss](https://www.cs.virginia.edu/~cr4bd/3330/F2021/)
 
-- #### :man_teacher: [Computation Structures Course by Chris Terman](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/)
+- #### :man_teacher: [Computation Structures Course by Chris Terman](https://computationstructures.org/)
 
 - #### :man_teacher: [Computer Architecture Course by Andrei Tatarnikov](https://andrewt0301.github.io/hse-acos-course/)
 
 - #### :man_teacher: [Computer Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse410/)
 
 - #### :man_teacher: [Computer System Engineering Course by Katrina LaCurts](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
+
+- #### :tv: [Building a Simple Computer From Scratch Videos by Bitwise](https://www.youtube.com/playlist?list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX)
 
 - #### :man_teacher: [Computer Architecture Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse470/)
 
@@ -120,11 +184,17 @@
 
 - #### :man_teacher: [Introduction to Embedded Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse474/)
 
+- #### :man_teacher: [Systems Programming and Machine Organization Course by Eddie Kohler](https://cs61.seas.harvard.edu/site/2021/)
+
+- #### :man_teacher: [Introduction to Computer Systems Course by Zack Weinberg and Kyle Liang](https://www.cs.cmu.edu/~213/)
+
 - #### :man_teacher: [Computer Architecture Course by Kirill Korolev, Oleg Ladin and Pavel Kryukov](https://mipt-ilab.github.io/mipt-mips/)
 
 - #### :man_teacher: [Computer System Architecture Course by Joel Emer, Krste Asanovic and Arvind](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
 
 - #### :man_teacher: [Computer Systems Architecture Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse548/)
+
+- #### :man_teacher: [Great Ideas in Computer Architecture Course by Connor McMahon and Nicholas Weaver](https://cs61c.org/sp22/)
 
 ## :shield: Computer Security
 
@@ -196,6 +266,8 @@
 
 - #### :tv: [Introduction to Computer Networking Course by Keith Winstein](https://cs144.github.io/)
 
+- #### :tv: [Information, Computing, Communication Videos by Philippe Janson](https://www.youtube.com/playlist?list=PLie7a1OUTSahuQi1tytxU7BIY3twTNTcn)
+
 - #### :man_teacher: [Data Communication Networks Course by Dimitri Bertsekas and Eytan Modiano](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/)
 
 - #### :book: [Computer Networking: A Top-down Approach Book by Jim Kurose and Keith Ross](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
@@ -242,6 +314,8 @@
 
 - #### :man_teacher: [Distributed and Operating Systems Course by Prashant Shenoy](https://none.cs.umass.edu/~shenoy/courses/677/lectures.html)
 
+- #### :tv: [Write Your Own Operating System Videos by Viktor Engelmann](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+
 - #### :man_teacher: [Operating Systems and System Programming Course by Ion Stoica](https://inst.eecs.berkeley.edu/~cs162/fa21/)
 
 - #### :man_teacher: [Operating Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse551/)
@@ -258,25 +332,71 @@
 
 ## :space_invader: Platform Simulation
 
+- #### :tv: [Virtual Machine Summer School Videos](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW)
+
 - #### :film_projector: [Virtualization Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/838/Spring2013/)
+
+- #### :man_teacher: [Virtual Machines and Managed Runtimes Course by Mario Wolczko](http://www.wolczko.com/CS294/)
 
 - #### :film_projector: [Fundamentals of Full-Platform Simulation Course Slides by Evgenii Yulyugin and Grigory Rechistov](https://github.com/yulyugin/sim-lectures)
 
 ## :jigsaw: Programming Language Design
 
+- #### :globe_with_meridians: [Learn X in Y Minutes Web Site](https://learnxinyminutes.com/)
+
 - #### :man_teacher: [Types Course by Neel Krishnaswami](https://www.cl.cam.ac.uk/teaching/2122/Types/materials.html)
+
+- #### :book: [Build Your Own Lisp Book by Daniel Holden](https://buildyourownlisp.com/)
+
+- #### :book: [Programming Languages Book by OpenDSA](https://opendsa-server.cs.vt.edu/ODSA/Books/PL/html/)
+
+- #### :man_teacher: [Languages and Automata Course by Ray Toal](https://cs.lmu.edu/~ray/classes/cc/)
+
+- #### :book: [Crafting Interpreters Book by Robert Nystrom](http://craftinginterpreters.com/)
+
+- #### :man_teacher: [Programming Paradigms Course by Tim Dwyer](https://tgdwyer.github.io/)
+
+- #### :man_teacher: [Programming Languages Course by Alex Aiken](https://web.stanford.edu/class/cs242/)
+
+- #### :man_teacher: [Programming Languages Course by Nada Amin](https://groups.seas.harvard.edu/courses/cs152/2022sp/)
 
 - #### :man_teacher: [Denotational Semantics Course by Marcelo Fiore](https://www.cl.cam.ac.uk/teaching/2122/DenotSem/materials.html)
 
+- #### :man_teacher: [Oregon Programming Language Summer School](https://www.cs.uoregon.edu/research/summerschool/archives.html)
+
+- #### :man_teacher: [Programming Languages Course by Michael Spivey](https://spivey.oriel.ox.ac.uk/proglan/Programming_Languages)
+
+- #### :man_technologist: [Grow Your Own Type System Repo by Tom Primozic](https://github.com/tomprimozic/type-systems)
+
+- #### :man_teacher: [Programming Languages Course by Alexander Kurz](https://github.com/alexhkurz/programming-languages-2022)
+
 - #### :man_teacher: [Formal Models of Language Course by Paula Buttery](https://www.cl.cam.ac.uk/teaching/2122/ForModLang/materials.html)
+
+- #### :man_teacher: [Programming Languages Course by Mattox Beckman](https://pages.github-dev.cs.illinois.edu/cs421-fa20/web/)
 
 - #### :man_teacher: [Concepts in Programming Languages Course by Alan Mycroft](https://www.cl.cam.ac.uk/teaching/2122/ConceptsPL/materials.html)
 
+- #### :tv: [A Programming Language for Games Videos by Jonathan Blow](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
+
 - #### :man_teacher: [Programming Languages Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse341/)
+
+- #### :man_teacher: [EPFL/ETH Summer School on DSL Design and Implementation](https://vjovanov.github.io/dsldi-summer-school/)
+
+- #### :film_projector: [Models of Programming Languages Slides by Paul-André Melliès](https://github.com/pamellies/models-of-programming-languages)
+
+- #### :man_teacher: [Special Topics in Programming Languages Course by Edward Yang](https://github.com/ezyang/pl-class-public)
 
 - #### :man_teacher: [Semantics of Programming Languages Course by Neel Krishnaswami](https://www.cl.cam.ac.uk/teaching/2122/Semantics/materials.html)
 
 - #### :man_teacher: [Multithreaded Parallelism: Languages and Compilers Course by Arvind](https://ocw.mit.edu/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/)
+
+- #### :tv: [Programming Language Development in C Videos by Dmitriy Kubyshkin](https://www.youtube.com/playlist?list=PLvdK1vRmp8wMzH4w_8sQ30NKU3Bt4Cc-M)
+
+- #### :man_teacher: [Programming Languages Graduate Course from Univerity of Washington](https://courses.cs.washington.edu/courses/csep505/)
+
+- #### :tv: [Structure and Interpretation of Computer Programs Videos by Code Report](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
+
+- #### :man_teacher: [Concrete Semantics with Isabelle/HOL Book by Tobias Nipkow and Gerwin Klein](http://concrete-semantics.org/)
 
 - #### :man_teacher: [Programming Languages & Implementation Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse413/)
 
@@ -288,11 +408,15 @@
 
 - #### :man_teacher: [Advanced Topics in Programming Languages Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse506/)
 
+- #### :man_teacher: [Design and Implementation of Programming Languages Course by José Manuel Calderón Trilla](https://www.cs.umd.edu/class/spring2022/cmsc430/)
+
 - #### :man_teacher: [Design and Implementation of Domain-Specific Languages Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse402/)
 
 - #### :book: [Programming Language Foundations in Agda Book by Philip Wadler, Wen Kokke and Jeremy Siek](https://plfa.github.io/)
 
 - #### :man_teacher: [Structure and Interpretation of Computer Programs Course by Eric Grimson, Peter Szolovits and Trevor Darrell](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+
+- #### :book: [Structure and Interpretation of Computer Programs Book by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
 <!-- MARKDOWN LINKS -->
 
