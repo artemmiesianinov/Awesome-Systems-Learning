@@ -336,6 +336,8 @@
 
 - #### :man_teacher: [Distributed Systems Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/)
 
+- #### :tv: [Professional Network Design Videos by Viktor Engelmann](https://www.youtube.com/playlist?list=PLHh55M_Kq4OCZOAxs2KZyCawhX38YR154)
+
 - #### :man_teacher: [Distributed Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse452/)
 
 - #### :man_teacher: [Distributed Computing Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs5414/2020fa/)
