@@ -64,7 +64,11 @@
 
 - #### :man_teacher: [x86 Assembly Primer for C Programmers Slides by Ivan Sergeev](https://github.com/vsergeev/apfcp/blob/master/apfcp.pdf)
 
+- #### :man_teacher: [Introduction to Ethical Hacking Course by Dave Levin and others](https://github.com/UMD-CS-STICs/389Rspring19)
+
 - #### :man_teacher: [The Hardware/Software Interface Course from University of Washington](http://courses.cs.washington.edu/courses/cse351/)
+
+- #### :man_teacher: [Introduction to Reverse Engineering Course by Jonathan Katz and others](https://gitlab.com/drakemp/cmsc389j)
 
 - #### :book: [Programming with 64-Bit ARM Assembly Language Book by Stephen Smith](https://github.com/Apress/programming-with-64-bit-ARM-assembly-language)
 
@@ -82,6 +86,8 @@
 
 ## :robot: Circuit Design
 
+- #### :book: [Lessons in Electric Circuits Book](https://www.allaboutcircuits.com/textbook/)
+
 - #### :man_teacher: [MIPS CPU Course by Stanislav Zhelnio](https://github.com/MIPSfpga/schoolMIPS/wiki)
 
 - #### :man_teacher: [Digital Electronics Course by Ian Wassell](https://github.com/MIPSfpga/schoolMIPS/wiki)
@@ -94,9 +100,13 @@
 
 - #### :man_teacher: [Digital Circuit Design Course by Onur Mutlu](https://safari.ethz.ch/digitaltechnik/doku.php)
 
+- #### :man_teacher: [Build a 6502 Computer Tutorial by Ben Eater](https://eater.net/6502)
+
+- #### :man_teacher: [Let’s Build a Video Card Tutorial by Ben Eater](https://eater.net/vga)
+
 - #### :man_teacher: [Digital Circuits and Systems Course by Scott Hauck](https://class.ece.uw.edu/271/hauck2/)
 
-- #### :tv: [Building an 8-bit Breadboard Computer Videos by Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+- #### :man_teacher: [Build an 8-bit Computer From Scratch Tutorial by Ben Eater](https://eater.net/8bit)
 
 - #### :man_teacher: [Advanced Logic Design Course from University of Washington](http://courses.cs.washington.edu/courses/cse467/)
 
@@ -120,9 +130,15 @@
 
 - #### :man_teacher: [Compilers Course by Fredrik Kjolstad](https://web.stanford.edu/class/cs143/)
 
+- #### :man_teacher: [Compiler Design Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15411-f14/)
+
 - #### :man_teacher: [Compiler Construction Course by Pat Morin](https://cglab.ca/~morin/teaching/3002/)
 
 - #### :movie_camera: [Zig Compiler Live Streams by Andrew Kelley](https://vimeo.com/andrewrk)
+
+- #### :man_teacher: [Compiler Construction Course by Eelco Visser](https://tudelft-cs4200-2020.github.io/)
+
+- #### :man_teacher: [Advanced Compilers Course by David Van Horn](https://www.cs.umd.edu/class/spring2021/cmsc838E/)
 
 - #### :man_teacher: [Optimising Compilers Course by Timothy Jones](https://www.cl.cam.ac.uk/teaching/2122/OptComp/materials.html)
 
@@ -138,7 +154,13 @@
 
 - #### :tv: [Make a Compiler in C Videos by Sebastian Karlsson](https://www.youtube.com/playlist?list=PLvaIU2QC2uvFnVxXe-XzXJfd4dXGz5qBB)
 
+- #### :man_teacher: [Introduction to Compilers Course by Andrew Myers](https://www.cs.cornell.edu/courses/cs4120/2022sp/)
+
 - #### :tv: [Building a Compiler in C# Videos by Immo Landwerth](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
+
+- #### :man_teacher: [Advanced Compiler Construction Course by Keith Cooper](https://www.clear.rice.edu/comp512/)
+
+- #### :man_teacher: [Advanced Compiler Construction Course by Michel Schinz](https://cs420.epfl.ch/)
 
 - #### :man_teacher: [Compiler Construction Course from University of Washington](http://courses.cs.washington.edu/courses/csep501/)
 
@@ -150,6 +172,10 @@
 
 - #### :man_teacher: [Introduction to Compiler Construction Course from University of Washington](http://courses.cs.washington.edu/courses/cse401/)
 
+- #### :man_teacher: [Compilers: Principles and Practice Course by Tiark Rompf and Oliver Bracevac](https://tiarkrompf.github.io/cs352/)
+
+- #### :man_teacher: [Compiler Construction Course by Sebastian Hack, Fabian Ritter and Roland Leißa](https://compilers.cs.uni-saarland.de/teaching/cc/2017/)
+
 - #### :man_teacher: [Computer Language Engineering Course by Saman Amarasinghe and Martin Rinard](https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/)
 
 - #### :book: [Implementing Programming Languages: An Introduction to Compilers and Interpreters Book by Aarne Ranta](http://www.grammaticalframework.org/ipl-book/)
@@ -157,6 +183,12 @@
 ## :cityscape: Computer Architecture
 
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
+
+- #### :man_teacher: [Digital Systems Course by Michael Spivey](https://spivey.oriel.ox.ac.uk/digisys/Digital_Systems)
+
+- #### :man_teacher: [Systems Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs6411/2018sp/)
+
+- #### :man_teacher: [Systems Programming Course by Ken Birman](https://www.cs.cornell.edu/courses/cs4414/2021fa/)
 
 - #### :man_teacher: [Computer Architecture Course by Onur Mutlu](https://safari.ethz.ch/architecture/doku.php)
 
@@ -172,9 +204,15 @@
 
 - #### :man_teacher: [Computer System Engineering Course by Katrina LaCurts](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 
+- #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
+
 - #### :tv: [Building a Simple Computer From Scratch Videos by Bitwise](https://www.youtube.com/playlist?list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX)
 
 - #### :man_teacher: [Computer Architecture Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse470/)
+
+- #### :man_teacher: [Introduction to Computer Systems Course by Thomas Doeppner](https://cs0330-fall21.github.io/)
+
+- #### :man_teacher: [Fundamentals of Computer Systems Course by Malte Schwarzkopf](http://cs.brown.edu/courses/csci0300/2022/)
 
 - #### :man_teacher: [Computer Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse550/)
 
@@ -198,23 +236,47 @@
 
 ## :shield: Computer Security
 
+- #### :man_teacher: [Grad Security Course by Dave Levin](https://www.cs.umd.edu/class/spring2021/cmsc614/)
+
+- #### :tv: [Software Analysis Videos by Mayur Naik](https://www.youtube.com/playlist?list=PLF3-CvSRq2SYXEiS80KuZQ80q8K2aHLQX)
+
+- #### :book: [Crypto 101 Book by Laurens Van Houtven](https://www.crypto101.io/)
+
 - #### :man_teacher: [Cryptography Course by Martin Kleppmann](https://www.cl.cam.ac.uk/teaching/2122/Crypto/materials.html)
+
+- #### :man_teacher: [Computer Security Course by Tom Ristenpart](https://github.com/tomrist/cs5435-fall2019)
+
+- #### :man_teacher: [Applied Cryptography Course by Tom Ristenpart](https://github.com/tomrist/cs5830-spring2022)
+
+- #### :man_teacher: [Advanced System Security Course by Fred Schneider](https://www.cs.cornell.edu/courses/cs5432/2021sp/)
 
 - #### :tv: [Introduction to Cryptography Videos by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 
 - #### :man_teacher: [Defense Against the Dark Arts Course by Charles Reiss](https://www.cs.virginia.edu/~cr4bd/4630/S2021/)
 
+- #### :man_teacher: [Introduction to Cryptography Course by Jonathan Katz](http://www.cs.umd.edu/~jkatz/crypto/s22/)
+
 - #### :man_teacher: [Computer Security Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse484/)
 
 - #### :man_teacher: [Computer Systems Security Course by Nickolai Zeldovich](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
+
+- #### :man_teacher: [Designing Secure Cryptography Course by Tom Ristenpart](https://github.com/cornelltech/CS6831-Spring2019)
+
+- #### :man_teacher: [Security and Privacy Technologies Course by Tom Ristenpart](https://github.com/tomrist/cs6431-fall2021)
 
 - #### :man_teacher: [Software and Security Engineering Course by Ross Anderson](https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/materials.html)
 
 - #### :man_teacher: [Principles of Computer Systems Course by Nickolai Zeldovich](https://6826.csail.mit.edu/2020/)
 
+- #### :man_teacher: [Computer & Network Security Course by Noah Miller and others](https://breakerspace.notion.site/CMSC-414-Fall-2021-University-of-Maryland-4e399eecae8340108fcffff5ce9be44c)
+
 - #### :man_teacher: [Software Foundations of Security and Privacy Course by Jean Yang](https://github.com/jeanqasaur/cmu-15316-spring17)
 
 - #### :man_teacher: [Introduction to Linux Security Course by Brad Causey and Bobby Rogers](https://www.vtc.com/products/linux-security-tutorials.htm)
+
+- #### :man_teacher: [Introduction to Computer Security Course by David Brumley and Vyas Sekar](https://users.ece.cmu.edu/~dbrumley/courses/18487-f15/#lectures)
+
+- #### :man_teacher: [Software Foundations of Security & Privacy Course by Matt Fredrikson and others](https://15316-cmu.github.io/2021/index.html)
 
 ## :card_file_box: Database Systems
 
@@ -223,6 +285,10 @@
 - #### :man_teacher: [Database Systems Course by Lin Ma and Andrew Crotty](https://15445.courses.cs.cmu.edu/fall2021/)
 
 - #### :man_teacher: [Database Systems Course by Samuel Madden and others](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/)
+
+- #### :man_teacher: [Database Management Systems Course by Amol Deshpande](https://www.cs.umd.edu/~amol/cmsc724-spring2022/)
+
+- #### :man_teacher: [Introduction to Database Systems Course by Immanuel Trummer](http://www.databaselecture.com/)
 
 - #### :man_teacher: [Database Systems Internals Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse444/)
 
@@ -242,25 +308,37 @@
 
 - #### :book: [Software Foundations Book Series](https://softwarefoundations.cis.upenn.edu/)
 
+- #### :man_teacher: [Constructive Logic Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15317-f17/)
+
 - #### :globe_with_meridians: [DeepSpec Summer School on Verified Systems Web Site](https://deepspec.org/event/dsss17/index.html)
 
 - #### :man_teacher: [Safety in Systems Programming Course by Thea Rossman](https://web.stanford.edu/class/cs110l/)
 
-## :spider_web: Network Systems
+- #### :man_teacher: [Certified System Software Course by Greg Morrisett and Andrew Myers](https://www.cs.cornell.edu/courses/cs6115/2017fa/)
 
-- #### :tv: [Networking Tutorial Videos by Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
+## :spider_web: Network Systems
 
 - #### :tv: [Computer Networks Videos by Kenan Casey](https://www.youtube.com/playlist?list=PLLFIgriuZPAcCkmSTfcq7oaHcVy3rzEtc)
 
+- #### :man_teacher: [Computer Networks Course by Nirupam Roy](https://www.cs.umd.edu/class/spring2022/cmsc417/)
+
 - #### :man_teacher: [Distributed Systems Course by Robert Morris](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+- #### :man_teacher: [Distributed Systems Course by Nick DeMarinis](http://cs.brown.edu/courses/csci1680/s22/)
+
+- #### :man_teacher: [Computer Networks Course by Rachit Agarwal](https://www.cs.cornell.edu/courses/cs4450/2021sp/)
 
 - #### :man_teacher: [Computer Networking Course by Andrew Moore](https://www.cl.cam.ac.uk/teaching/2122/CompNet/materials.html)
 
 - #### :man_teacher: [Cloud Computing Course by Evangelia Kalyvianaki](https://www.cl.cam.ac.uk/teaching/2122/CC/materials.html)
 
+- #### :man_teacher: [Learn How the Internet Works Tutorial by Ben Eater](https://eater.net/inet)
+
 - #### :man_teacher: [Distributed Systems Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/)
 
 - #### :man_teacher: [Distributed Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse452/)
+
+- #### :man_teacher: [Distributed Computing Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs5414/2020fa/)
 
 - #### :man_teacher: [Communication Systems Engineering Course by Eytan Modiano](https://ocw.mit.edu/courses/16-36-communication-systems-engineering-spring-2009/)
 
@@ -292,15 +370,21 @@
 
 - #### :man_teacher: [Operating Systems Course by Richard Mortier](https://www.cl.cam.ac.uk/teaching/2122/OpSystems/materials.html)
 
+- #### :man_teacher: [Operating Systems Course by Ashok Agrawala](https://www.cs.umd.edu/class/fall2021/cmsc412/)
+
 - #### :book: [Operating Systems: From 0 to 1 Book by Tu Do](https://tuhdo.github.io/os01/)
 
 - #### :man_teacher: [Operating Systems Course by Donnie Pinkston](http://courses.cms.caltech.edu/cs124/)
 
 - #### :man_teacher: [Operating Systems Course by Andrei Tatarnikov](https://andrewt0301.github.io/hse-acos-course/)
 
+- #### :man_teacher: [Operating Systems Course by Thomas Doeppner](https://brown-cs1690.github.io/brown-cs167-s22/#/)
+
 - #### :man_technologist: [Kernel Development Tutorial by Brandon Friesen](http://www.osdever.net/bkerndev/index.php)
 
 - #### :man_teacher: [Operating Systems in Rust Course by David Evans](http://rust-class.org/pages/classes.html)
+
+- #### :man_teacher: [Operating Systems Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs4410/2022sp/)
 
 - #### :man_teacher: [Writing an OS in Rust Course by Philipp Oppermann](https://os.phil-opp.com/)
 
@@ -326,6 +410,8 @@
 
 - #### :man_teacher: [Introduction to Operating Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse451/)
 
+- #### :man_teacher: [Operating Systems and Networks Course by Torsten Hoefler and Adrian Perrig](https://spcl.inf.ethz.ch/Teaching/2017-osnet/)
+
 - #### :thought_balloon: [The Adventures of OS: Making a RISC-V Operating System using Rust Blog Posts by Stephen Marz](https://osblog.stephenmarz.com/)
 
 - #### :man_technologist: [Learning Operating System Development Using Linux Kernel and Raspberry Pi Tutorial by Sergey Matyukevich](https://github.com/s-matyukevich/raspberry-pi-os)
@@ -346,6 +432,8 @@
 
 - #### :man_teacher: [Types Course by Neel Krishnaswami](https://www.cl.cam.ac.uk/teaching/2122/Types/materials.html)
 
+- #### :globe_with_meridians: [Programming Languages Zoo Web Site](http://plzoo.andrej.com/)
+
 - #### :book: [Build Your Own Lisp Book by Daniel Holden](https://buildyourownlisp.com/)
 
 - #### :book: [Programming Languages Book by OpenDSA](https://opendsa-server.cs.vt.edu/ODSA/Books/PL/html/)
@@ -353,6 +441,8 @@
 - #### :man_teacher: [Languages and Automata Course by Ray Toal](https://cs.lmu.edu/~ray/classes/cc/)
 
 - #### :book: [Crafting Interpreters Book by Robert Nystrom](http://craftinginterpreters.com/)
+
+- #### :man_teacher: [Substructural Logics Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15816-f16/)
 
 - #### :man_teacher: [Programming Paradigms Course by Tim Dwyer](https://tgdwyer.github.io/)
 
@@ -374,17 +464,29 @@
 
 - #### :man_teacher: [Programming Languages Course by Mattox Beckman](https://pages.github-dev.cs.illinois.edu/cs421-fa20/web/)
 
+- #### :man_teacher: [Programming Language Implementation Summer School](https://pliss2019.github.io/)
+
+- #### :man_teacher: [Advanced Programming Languages Course by Owen Arden](https://ucsc-cse-210b.github.io/spr22/)
+
 - #### :man_teacher: [Concepts in Programming Languages Course by Alan Mycroft](https://www.cl.cam.ac.uk/teaching/2122/ConceptsPL/materials.html)
+
+- #### :man_teacher: [Advanced Programming Languages Course by Alexandra Silva](https://www.cs.cornell.edu/courses/cs6110/2022sp/)
+
+- #### :man_teacher: [Types and Programming Languages Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15814-f21/)
+
+- #### :man_teacher: [EPFL/ETH Summer School on DSL Design and Implementation](https://vjovanov.github.io/dsldi-summer-school/)
 
 - #### :tv: [A Programming Language for Games Videos by Jonathan Blow](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
 
 - #### :man_teacher: [Programming Languages Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse341/)
 
-- #### :man_teacher: [EPFL/ETH Summer School on DSL Design and Implementation](https://vjovanov.github.io/dsldi-summer-school/)
+- #### :man_teacher: [Programming Languages and Logics Course by Adrian Sampson](https://www.cs.cornell.edu/courses/cs4110/2021fa/)
 
 - #### :film_projector: [Models of Programming Languages Slides by Paul-André Melliès](https://github.com/pamellies/models-of-programming-languages)
 
 - #### :man_teacher: [Special Topics in Programming Languages Course by Edward Yang](https://github.com/ezyang/pl-class-public)
+
+- #### :man_teacher: [Foundations of Programming Languages Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15312-f04/)
 
 - #### :man_teacher: [Semantics of Programming Languages Course by Neel Krishnaswami](https://www.cl.cam.ac.uk/teaching/2122/Semantics/materials.html)
 
