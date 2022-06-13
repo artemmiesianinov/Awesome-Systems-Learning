@@ -352,6 +352,8 @@
 
 - #### :book: [Computer Networking: A Top-down Approach Book by Jim Kurose and Keith Ross](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
+- #### :man_teacher: [Digital Communication Systems Course by Hari Balakrishnan and George Verghese](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/pages/lecture-slides/)
+
 - #### :man_teacher: [Concurrent and Distributed Systems Course by David Greaves and Martin Kleppmann](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/materials.html)
 
 - #### :man_teacher: [Computer Communication and Networks Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse561/)
