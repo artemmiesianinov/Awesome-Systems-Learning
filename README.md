@@ -278,6 +278,8 @@
 
 - #### :man_teacher: [Software Foundations of Security & Privacy Course by Matt Fredrikson and others](https://15316-cmu.github.io/2021/index.html)
 
+- #### :book: [High Assurance Rust: Developing Secure and Robust Software Book by Tiemoko Ballo](https://highassurance.rs/)
+
 ## :card_file_box: Database Systems
 
 - #### :man_teacher: [Databases Course by Timothy Griffin](https://www.cl.cam.ac.uk/teaching/2122/Databases/materials.html)
