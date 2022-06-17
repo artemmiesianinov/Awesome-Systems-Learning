@@ -190,6 +190,8 @@
 
 - #### :man_teacher: [Digital Systems Course by Michael Spivey](https://spivey.oriel.ox.ac.uk/digisys/Digital_Systems)
 
+- #### :globe_with_meridians: [Memory Management Reference Web Site](https://www.memorymanagement.org/)
+
 - #### :man_teacher: [Systems Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs6411/2018sp/)
 
 - #### :man_teacher: [Systems Programming Course by Ken Birman](https://www.cs.cornell.edu/courses/cs4414/2021fa/)
