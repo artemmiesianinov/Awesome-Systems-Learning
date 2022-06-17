@@ -40,6 +40,10 @@
 
 - #### :man_technologist: [LLVM Tutorials](https://llvm.org/docs/tutorial/)
 
+- #### :man_technologist: [X16 Assembly Language Tutorials](https://www.youtube.com/playlist?list=PLPSrOWYluVLIJ1n-TsVb-BESL1tkSTRI_)
+
+- #### :man_technologist: [Z80 Assembly Language Tutorials](https://www.youtube.com/playlist?list=PLPSrOWYluVLJyKIIDxlBtwkFC5lCE3xnY)
+
 - #### :book: [Learn LLVM 12 Book by Kai Nacke](https://github.com/PacktPublishing/Learn-LLVM-12)
 
 - #### :man_technologist: [NASM Assembly Language Tutorials](https://asmtutor.com/)
@@ -48,11 +52,11 @@
 
 - #### :tv: [Modern x64 Assembly Videos by Creel](https://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA)
 
-- #### :tv: [Intro to x86 Assembly by Davy Wybiral](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
-
 - #### :man_teacher: [UNIX Weapons School Course by Nick Black](https://nick-black.com/dankwiki/index.php/UNIX_Weapons_School)
 
 - #### :man_teacher: [Introduction to ARM Course by David Thomas](http://www.davespace.co.uk/arm/introduction-to-arm/index.html)
+
+- #### :tv: [Intro to x86 Assembly Videos by Davy Wybiral](https://www.youtube.com/playlist?list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
 
 - #### :thought_balloon: [Say Hello to x86_64 Assembly Blog Posts by 0xAX](https://0xax.github.io/archive/)
 
@@ -434,7 +438,11 @@
 
 ## :jigsaw: Programming Language Design
 
+- #### :globe_with_meridians: [Hyperpolyglot Web Site](https://hyperpolyglot.org/)
+
 - #### :globe_with_meridians: [Learn X in Y Minutes Web Site](https://learnxinyminutes.com/)
+
+- #### :globe_with_meridians: [Syntax Across Languages Web Site](http://rigaux.org/language-study/syntax-across-languages.html)
 
 - #### :man_teacher: [Types Course by Neel Krishnaswami](https://www.cl.cam.ac.uk/teaching/2122/Types/materials.html)
 
