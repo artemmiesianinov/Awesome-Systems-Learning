@@ -350,6 +350,8 @@
 
 - #### :man_teacher: [Distributed Computing Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs5414/2020fa/)
 
+- #### :globe_with_meridians: [The Illustrated QUIC Connection Web Site by Michael Driscoll](https://quic.ulfheim.net/)
+
 - #### :man_teacher: [Communication Systems Engineering Course by Eytan Modiano](https://ocw.mit.edu/courses/16-36-communication-systems-engineering-spring-2009/)
 
 - #### :tv: [Introduction to Computer Networking Course by Keith Winstein](https://cs144.github.io/)
