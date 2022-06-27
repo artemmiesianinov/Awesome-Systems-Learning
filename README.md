@@ -60,6 +60,8 @@
 
 - #### :thought_balloon: [Say Hello to x86_64 Assembly Blog Posts by 0xAX](https://0xax.github.io/archive/)
 
+- #### :thought_balloon: [Writing a Tiny x86 Bootloader Blog Post by Joe Bergeron](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/)
+
 - #### :man_teacher: [Assembly Language Programming Courses by Aven Bross](https://docs.google.com/document/d/e/2PACX-1vQOy_S-NkOwHxovtzo13BQloFZsio_FGmOzj7eXg_fF6c2-rWomY468IYcbJ6s0O7qiVXOg3BHcm86R/pub)
 
 - #### :man_teacher: [Assembly Language Programming Course by James Wilson](https://github.com/jameswilson281/CIS---11-Assembly-Programming)
@@ -140,6 +142,8 @@
 
 - #### :movie_camera: [Zig Compiler Live Streams by Andrew Kelley](https://vimeo.com/andrewrk)
 
+- #### :tv: [Creating a Compiler Videos by Joel Yliluoma](https://www.youtube.com/playlist?list=PLzLzYGEbdY5n9ITKUqOuRjXkRU5tMW2Sd)
+
 - #### :man_teacher: [Compiler Construction Course by Eelco Visser](https://tudelft-cs4200-2020.github.io/)
 
 - #### :man_teacher: [Advanced Compilers Course by David Van Horn](https://www.cs.umd.edu/class/spring2021/cmsc838E/)
@@ -159,6 +163,8 @@
 - #### :tv: [Make a Compiler in C Videos by Sebastian Karlsson](https://www.youtube.com/playlist?list=PLvaIU2QC2uvFnVxXe-XzXJfd4dXGz5qBB)
 
 - #### :man_teacher: [Introduction to Compilers Course by Andrew Myers](https://www.cs.cornell.edu/courses/cs4120/2022sp/)
+
+- #### :man_technologist: [A Compiler Writing Journey Repo by Warren Toomey](https://github.com/DoctorWkt/acwj)
 
 - #### :tv: [Building a Compiler in C# Videos by Immo Landwerth](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
 
@@ -254,6 +260,8 @@
 
 - #### :man_teacher: [Applied Cryptography Course by Tom Ristenpart](https://github.com/tomrist/cs5830-spring2022)
 
+- #### :thought_balloon: [Writing a Linux Debugger Blog Posts by Sy Brand](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+
 - #### :man_teacher: [Advanced System Security Course by Fred Schneider](https://www.cs.cornell.edu/courses/cs5432/2021sp/)
 
 - #### :tv: [Introduction to Cryptography Videos by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
@@ -289,6 +297,8 @@
 ## :card_file_box: Database Systems
 
 - #### :man_teacher: [Databases Course by Timothy Griffin](https://www.cl.cam.ac.uk/teaching/2122/Databases/materials.html)
+
+- #### :man_technologist: [Let's Build a Simple Database Tutorial by Connor Stack](https://cstack.github.io/db_tutorial/)
 
 - #### :man_teacher: [Database Systems Course by Lin Ma and Andrew Crotty](https://15445.courses.cs.cmu.edu/fall2021/)
 
@@ -344,6 +354,8 @@
 
 - #### :man_teacher: [Distributed Systems Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/)
 
+- #### :thought_balloon: [Let's Code a TCP/IP Stack Blog Posts by Sami Niiranen](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+
 - #### :tv: [Professional Network Design Videos by Viktor Engelmann](https://www.youtube.com/playlist?list=PLHh55M_Kq4OCZOAxs2KZyCawhX38YR154)
 
 - #### :man_teacher: [Distributed Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse452/)
@@ -373,6 +385,8 @@
 ## :lady_beetle: Operating Systems
 
 - #### :globe_with_meridians: [OSDev Web Site](https://wiki.osdev.org/Main_Page)
+
+- #### :globe_with_meridians: [OSDever Web Site](http://www.osdever.net/tutorials/)
 
 - #### :globe_with_meridians: [Unikernels Web Site](http://unikernel.org/)
 
@@ -404,7 +418,11 @@
 
 - #### :man_teacher: [Operating Systems Engineering Course by Adam Belay](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 
+- #### :man_technologist: [Multi-tasking OS kernel for ARM Tutorial by Jim Huang](https://github.com/jserv/mini-arm-os)
+
 - #### :man_teacher: [Advanced Operating Systems Course by Robert Watson](https://www.cl.cam.ac.uk/teaching/2122/AOS/materials.html)
+
+- #### :thought_balloon: [Roll your own toy UNIX-clone OS Blog Posts by James Molloy](http://jamesmolloy.co.uk/tutorial_html/)
 
 - #### :man_technologist: [How to Create an OS from Scratch Tutorial by Carlos Fenollosa](https://github.com/cfenollosa/os-tutorial)
 
@@ -420,9 +438,13 @@
 
 - #### :man_teacher: [Introduction to Operating Systems Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/)
 
+- #### :man_teacher: [Baking Pi – Operating Systems Development Course by Alex Chadwick](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
+
 - #### :book: [The Little Book about OS Development by Erik Helin and Adam Renberg](https://littleosbook.github.io/)
 
 - #### :man_teacher: [Introduction to Operating Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse451/)
+
+- #### :thought_balloon: [Operating Systems Development for Dummies Blog Post by Leo Whitehead](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 
 - #### :man_teacher: [Operating Systems and Networks Course by Torsten Hoefler and Adrian Perrig](https://spcl.inf.ethz.ch/Teaching/2017-osnet/)
 
@@ -437,6 +459,10 @@
 - #### :film_projector: [Virtualization Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/838/Spring2013/)
 
 - #### :man_teacher: [Virtual Machines and Managed Runtimes Course by Mario Wolczko](http://www.wolczko.com/CS294/)
+
+- #### :thought_balloon: [So You Want to Build a Language VM Blog Posts by Fletcher Haynes](https://blog.subnetzero.io/post/building-language-vm-part-00/)
+
+- #### :man_technologist: [Write your Own Virtual Machine Tutorial by Justin Meiners and Ryan Pendleton](https://www.jmeiners.com/lc3-vm/)
 
 - #### :film_projector: [Fundamentals of Full-Platform Simulation Course Slides by Evgenii Yulyugin and Grigory Rechistov](https://github.com/yulyugin/sim-lectures)
 
@@ -501,6 +527,8 @@
 - #### :man_teacher: [Programming Languages and Logics Course by Adrian Sampson](https://www.cs.cornell.edu/courses/cs4110/2021fa/)
 
 - #### :film_projector: [Models of Programming Languages Slides by Paul-André Melliès](https://github.com/pamellies/models-of-programming-languages)
+
+- #### :thought_balloon: [Learning Parser Combinators with Rust Blog Post by Bodil Stokke](https://bodil.lol/parser-combinators/)
 
 - #### :man_teacher: [Special Topics in Programming Languages Course by Edward Yang](https://github.com/ezyang/pl-class-public)
 
