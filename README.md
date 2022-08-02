@@ -25,7 +25,7 @@
 
 - [:racing_car: Assembly Programming](#racing_car-assembly-programming)
 - [:chains: Blockchain Technology](#chains-blockchain-technology)
-- [:robot: Circuit Design](#-circuit-design)
+- [:robot: Circuit Design](#robot-circuit-design)
 - [:dragon_face: Compiler Construction](#dragon_face-compiler-construction)
 - [:cityscape: Computer Architecture](#cityscape-computer-architecture)
 - [:shield: Computer Security](#shield-computer-security)
@@ -71,6 +71,8 @@
 - #### :man_teacher: [x86 Assembly Primer for C Programmers Slides by Ivan Sergeev](https://github.com/vsergeev/apfcp/blob/master/apfcp.pdf)
 
 - #### :man_teacher: [Introduction to Ethical Hacking Course by Dave Levin and others](https://github.com/UMD-CS-STICs/389Rspring19)
+
+- #### :tv: [MIPS Assembly Language Programming Videos by Padraic Edgington](https://www.youtube.com/playlist?list=PL1C2GgOjAF-KYdV5bH-xzoybEHreDZ3Kh)
 
 - #### :man_teacher: [The Hardware/Software Interface Course from University of Washington](http://courses.cs.washington.edu/courses/cse351/)
 
@@ -130,11 +132,15 @@
 
 - #### :man_teacher: [Theory of Parallel Hardware Course by Bradley Kuszmaul, Charles Leiserson and Michael Bender](https://ocw.mit.edu/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/)
 
+- #### :book: [Parallel Programming for FPGAs Book by Ryan Kastner, Janarbek Matai and Stephen Neuendorffer](https://kastner.ucsd.edu/hlsbook/)
+
 ## :dragon_face: Compiler Construction
 
 - #### :man_teacher: [Compilers Course by Nicolas Laurent](https://norswap.com/compilers/)
 
 - #### :man_teacher: [Compilers Course by Fredrik Kjolstad](https://web.stanford.edu/class/cs143/)
+
+- #### :tv: [Compilers Videos by Ghassan Shobaki](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 
 - #### :man_teacher: [Compiler Design Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15411-f14/)
 
@@ -192,6 +198,8 @@
 
 ## :cityscape: Computer Architecture
 
+- #### :globe_with_meridians: [Zig Embedded Group Web Site](https://zeg.random-projects.net/)
+
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
 
 - #### :man_teacher: [Digital Systems Course by Michael Spivey](https://spivey.oriel.ox.ac.uk/digisys/Digital_Systems)
@@ -243,6 +251,8 @@
 - #### :man_teacher: [Computer System Architecture Course by Joel Emer, Krste Asanovic and Arvind](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
 
 - #### :man_teacher: [Computer Systems Architecture Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse548/)
+
+- #### :tv: [Introduction to Computer Organization and Architecture Videos by Padraic Edgington](https://www.youtube.com/playlist?list=PL1C2GgOjAF-KjrLSFLhM6bqnAs3M8R3jO)
 
 - #### :man_teacher: [Great Ideas in Computer Architecture Course by Connor McMahon and Nicholas Weaver](https://cs61c.org/sp22/)
 
@@ -298,6 +308,10 @@
 
 - #### :man_teacher: [Databases Course by Timothy Griffin](https://www.cl.cam.ac.uk/teaching/2122/Databases/materials.html)
 
+- #### :tv: [Relational Databases Videos by Brian Will](https://www.youtube.com/playlist?list=PL6D2AA443FA10BBBC)
+
+- #### :tv: [Database Lessons Videos by Daniel Soper](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
+
 - #### :man_technologist: [Let's Build a Simple Database Tutorial by Connor Stack](https://cstack.github.io/db_tutorial/)
 
 - #### :man_teacher: [Database Systems Course by Lin Ma and Andrew Crotty](https://15445.courses.cs.cmu.edu/fall2021/)
@@ -335,6 +349,8 @@
 - #### :man_teacher: [Certified System Software Course by Greg Morrisett and Andrew Myers](https://www.cs.cornell.edu/courses/cs6115/2017fa/)
 
 ## :spider_web: Network Systems
+
+- #### :tv: [The Internet Videos by Brian Will](https://www.youtube.com/playlist?list=PL18AF3812A53E11C5)
 
 - #### :tv: [Computer Networks Videos by Kenan Casey](https://www.youtube.com/playlist?list=PLLFIgriuZPAcCkmSTfcq7oaHcVy3rzEtc)
 
@@ -404,6 +420,8 @@
 
 - #### :man_teacher: [Operating Systems Course by Donnie Pinkston](http://courses.cms.caltech.edu/cs124/)
 
+- #### :tv: [Operating Systems Videos by Ghassan Shobaki](https://www.youtube.com/playlist?list=PL6KMWPQP_DM-7tMNjUa7X2zGrc8jipPeI)
+
 - #### :man_teacher: [Operating Systems Course by Andrei Tatarnikov](https://andrewt0301.github.io/hse-acos-course/)
 
 - #### :man_teacher: [Operating Systems Course by Thomas Doeppner](https://brown-cs1690.github.io/brown-cs167-s22/#/)
@@ -432,6 +450,8 @@
 
 - #### :tv: [Write Your Own Operating System Videos by Viktor Engelmann](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 
+- #### :book: [Comprehensive Guide To UEFI Programming by Natalia Cholewa](https://natanalt.github.io/uefi-guide/)
+
 - #### :man_teacher: [Operating Systems and System Programming Course by Ion Stoica](https://inst.eecs.berkeley.edu/~cs162/fa21/)
 
 - #### :man_teacher: [Operating Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse551/)
@@ -458,6 +478,8 @@
 
 - #### :film_projector: [Virtualization Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/838/Spring2013/)
 
+- #### :man_technologist: [Hack the Virtual Memory Tutorial by Julien Barbier](https://github.com/holbertonschool/Hack-The-Virtual-Memory)
+
 - #### :man_teacher: [Virtual Machines and Managed Runtimes Course by Mario Wolczko](http://www.wolczko.com/CS294/)
 
 - #### :thought_balloon: [So You Want to Build a Language VM Blog Posts by Fletcher Haynes](https://blog.subnetzero.io/post/building-language-vm-part-00/)
@@ -483,6 +505,8 @@
 - #### :book: [Programming Languages Book by OpenDSA](https://opendsa-server.cs.vt.edu/ODSA/Books/PL/html/)
 
 - #### :man_teacher: [Languages and Automata Course by Ray Toal](https://cs.lmu.edu/~ray/classes/cc/)
+
+- #### :tv: [Programming Languages Videos by Brian Will](https://www.youtube.com/playlist?list=PL7141DE955793D3F0)
 
 - #### :book: [Crafting Interpreters Book by Robert Nystrom](http://craftinginterpreters.com/)
 
