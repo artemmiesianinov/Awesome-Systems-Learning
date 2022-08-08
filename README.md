@@ -388,6 +388,8 @@
 
 - #### :tv: [Information, Computing, Communication Videos by Philippe Janson](https://www.youtube.com/playlist?list=PLie7a1OUTSahuQi1tytxU7BIY3twTNTcn)
 
+- #### :man_teacher: [Introduction to Distributed Systems Course by Kyle Kingsbury and others](https://github.com/aphyr/distsys-class)
+
 - #### :man_teacher: [Data Communication Networks Course by Dimitri Bertsekas and Eytan Modiano](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/)
 
 - #### :book: [Computer Networking: A Top-down Approach Book by Jim Kurose and Keith Ross](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
