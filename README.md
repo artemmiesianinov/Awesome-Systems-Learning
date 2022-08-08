@@ -60,6 +60,8 @@
 
 - #### :thought_balloon: [Say Hello to x86_64 Assembly Blog Posts by 0xAX](https://0xax.github.io/archive/)
 
+- #### :book: [ARM Assembly Programming Book by Perry Kivolowitz](https://github.com/pkivolowitz/asm_book)
+
 - #### :thought_balloon: [Writing a Tiny x86 Bootloader Blog Post by Joe Bergeron](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/)
 
 - #### :man_teacher: [Assembly Language Programming Courses by Aven Bross](https://docs.google.com/document/d/e/2PACX-1vQOy_S-NkOwHxovtzo13BQloFZsio_FGmOzj7eXg_fF6c2-rWomY468IYcbJ6s0O7qiVXOg3BHcm86R/pub)
