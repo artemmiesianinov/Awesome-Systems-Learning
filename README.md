@@ -260,6 +260,8 @@
 
 - #### :man_teacher: [Great Ideas in Computer Architecture Course by Connor McMahon and Nicholas Weaver](https://cs61c.org/sp22/)
 
+- #### :man_teacher: [Performance Engineering of Software Systems Course by Charles Leiserson and Julian Shun](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
+
 ## :shield: Computer Security
 
 - #### :man_teacher: [Grad Security Course by Dave Levin](https://www.cs.umd.edu/class/spring2021/cmsc614/)
