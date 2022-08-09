@@ -104,6 +104,8 @@
 
 - #### :man_teacher: [Hardware Practical Classes by Ian Wassell](https://www.cl.cam.ac.uk/teaching/2122/HW/Hardware_21_face.pdf)
 
+- #### :man_teacher: [Complex Digital Systems Course by Arvind](http://csg.csail.mit.edu/6.375)
+
 - #### :tv: [Analog Circuits Videos by Jordan Edmunds](https://www.youtube.com/playlist?list=PLQms29D1RqeKZOu_iYDCxXw8w_yydvRMS)
 
 - #### :tv: [Analog Circuit Design Videos by Ali Hajimiri](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
@@ -250,7 +252,7 @@
 
 - #### :man_teacher: [Computer Architecture Course by Kirill Korolev, Oleg Ladin and Pavel Kryukov](https://mipt-ilab.github.io/mipt-mips/)
 
-- #### :man_teacher: [Computer System Architecture Course by Joel Emer, Krste Asanovic and Arvind](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
+- #### :man_teacher: [Computer System Architecture Course by Joel Emer, Krste Asanovic and Arvind](http://csg.csail.mit.edu/6.823/)
 
 - #### :man_teacher: [Computer Systems Architecture Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse548/)
 
@@ -564,7 +566,7 @@
 
 - #### :man_teacher: [Semantics of Programming Languages Course by Neel Krishnaswami](https://www.cl.cam.ac.uk/teaching/2122/Semantics/materials.html)
 
-- #### :man_teacher: [Multithreaded Parallelism: Languages and Compilers Course by Arvind](https://ocw.mit.edu/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/)
+- #### :man_teacher: [Multithreaded Parallelism: Languages and Compilers Course by Arvind](http://csg.csail.mit.edu/6.827/)
 
 - #### :tv: [Programming Language Development in C Videos by Dmitriy Kubyshkin](https://www.youtube.com/playlist?list=PLvdK1vRmp8wMzH4w_8sQ30NKU3Bt4Cc-M)
 
