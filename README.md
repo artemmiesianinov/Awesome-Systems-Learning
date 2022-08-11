@@ -35,6 +35,7 @@
 - [:lady_beetle: Operating Systems](#lady_beetle-operating-systems)
 - [:space_invader: Platform Simulation](#space_invader-platform-simulation)
 - [:jigsaw: Programming Language Design](#jigsaw-programming-language-design)
+- [:rewind: Reverse Engineering](#rewind-reverse-engineering)
 
 ## :racing_car: Assembly Programming
 
@@ -72,17 +73,12 @@
 
 - #### :man_teacher: [x86 Assembly Primer for C Programmers Slides by Ivan Sergeev](https://github.com/vsergeev/apfcp/blob/master/apfcp.pdf)
 
-- #### :man_teacher: [Introduction to Ethical Hacking Course by Dave Levin and others](https://github.com/UMD-CS-STICs/389Rspring19)
-
 - #### :tv: [MIPS Assembly Language Programming Videos by Padraic Edgington](https://www.youtube.com/playlist?list=PL1C2GgOjAF-KYdV5bH-xzoybEHreDZ3Kh)
 
 - #### :man_teacher: [The Hardware/Software Interface Course from University of Washington](http://courses.cs.washington.edu/courses/cse351/)
 
-- #### :man_teacher: [Introduction to Reverse Engineering Course by Jonathan Katz and others](https://gitlab.com/drakemp/cmsc389j)
-
 - #### :book: [Programming with 64-Bit ARM Assembly Language Book by Stephen Smith](https://github.com/Apress/programming-with-64-bit-ARM-assembly-language)
 
-- #### :man_teacher: [Assembly Programming and Reverse Engineering Courses by OpenSecurityTraining2](https://p.ost2.fyi/)
 
 ## :chains: Blockchain Technology
 
@@ -296,6 +292,8 @@
 
 - #### :man_teacher: [Software and Security Engineering Course by Ross Anderson](https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/materials.html)
 
+- #### :man_teacher: [Cryptography for Computer Networks Course by Sam Bowne](https://samsclass.info/141/141_F22.shtml)
+
 - #### :man_teacher: [Principles of Computer Systems Course by Nickolai Zeldovich](https://6826.csail.mit.edu/2020/)
 
 - #### :man_teacher: [Computer & Network Security Course by Noah Miller and others](https://breakerspace.notion.site/CMSC-414-Fall-2021-University-of-Maryland-4e399eecae8340108fcffff5ce9be44c)
@@ -307,6 +305,8 @@
 - #### :man_teacher: [Introduction to Computer Security Course by David Brumley and Vyas Sekar](https://users.ece.cmu.edu/~dbrumley/courses/18487-f15/#lectures)
 
 - #### :man_teacher: [Software Foundations of Security & Privacy Course by Matt Fredrikson and others](https://15316-cmu.github.io/2021/index.html)
+
+- #### :man_teacher: [Software Foundations of Security & Privacy Course by Matt Fredrikson and others](https://samsclass.info/)
 
 - #### :book: [High Assurance Rust: Developing Secure and Robust Software Book by Tiemoko Ballo](https://highassurance.rs/)
 
@@ -597,6 +597,32 @@
 - #### :man_teacher: [Structure and Interpretation of Computer Programs Course by Eric Grimson, Peter Szolovits and Trevor Darrell](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 
 - #### :book: [Structure and Interpretation of Computer Programs Book by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+
+## :rewind: Reverse Engineering
+
+- #### :tv: [Hack the Box Videos by PinkDraconian](https://www.youtube.com/playlist?list=PLeSXUd883dhiIpCIssnYlmEiThIowWPS4)
+
+- #### :tv: [Binary Exploitation Videos by PwnFunction](https://www.youtube.com/playlist?list=PLI_rLWXMqpSkAYfar0HRA7lykydwmRY_2)
+
+- #### :tv: [Binary Exploitation Videos by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+
+- #### :man_teacher: [Hacking Mobile Devices Course by Sam Bowne](https://samsclass.info/128/128_F22.shtml)
+
+- #### :tv: [Intro to Binary Exploitation Videos by CryptoCat](https://www.youtube.com/playlist?list=PLHUKi1UlEgOIc07Rfk2Jgb5fZbxDPec94)
+
+- #### :man_teacher: [Practical Malware Analysis Course by Sam Bowne](https://samsclass.info/126/126_F22.shtml)
+
+- #### :tv: [Reverse Engineering Videos by OpenSecurityTraining2](https://www.youtube.com/user/OpenSecurityTraining/playlists)
+
+- #### :man_teacher: [Reverse Engineering Courses by OpenSecurityTraining2](https://p.ost2.fyi/)
+
+- #### :man_teacher: [Malware Analysis Course by Rensselaer Polytechnic Institute](https://github.com/RPISEC/Malware)
+
+- #### :man_teacher: [Introduction to Ethical Hacking Course by Dave Levin and others](https://github.com/UMD-CS-STICs/389Rspring19)
+
+- #### :man_teacher: [Modern Binary Exploitation Course by Rensselaer Polytechnic Institute](https://github.com/RPISEC/MBE)
+
+- #### :man_teacher: [Introduction to Reverse Engineering Course by Jonathan Katz and others](https://gitlab.com/drakemp/cmsc389j)
 
 <!-- MARKDOWN LINKS -->
 
