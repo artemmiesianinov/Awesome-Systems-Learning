@@ -120,6 +120,8 @@
 
 - #### :man_teacher: [Microelectronic Devices and Circuits Course by Clifton Fonstad](https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009/)
 
+- #### :man_technologist: [Learning FPGA, yosys, nextpnr, and RISC-V Tutorials by Bruno Levy](https://github.com/BrunoLevy/learn-fpga)
+
 - #### :man_teacher: [Introduction To Digital Design Course from University of Washington](https://courses.cs.washington.edu/courses/cse369/)
 
 - #### :man_teacher: [High-speed Communication Circuits and Systems Course by Michael Perrott](https://ocw.mit.edu/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003/)
