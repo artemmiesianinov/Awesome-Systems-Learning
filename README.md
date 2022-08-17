@@ -30,6 +30,7 @@
 - [:cityscape: Computer Architecture](#cityscape-computer-architecture)
 - [:shield: Computer Security](#shield-computer-security)
 - [:card_file_box: Database Systems](#card_file_box-database-systems)
+- [:test_tube: Debugging and Testing](#test_tube-debugging-and-testing)
 - [:rooster: Formal Verification](#rooster-formal-verification)
 - [:spider_web: Network Systems](#spider_web-network-systems)
 - [:lady_beetle: Operating Systems](#lady_beetle-operating-systems)
@@ -91,6 +92,8 @@
 - #### :man_teacher: [Distributed and Parallel Systems Graduate Course from University of Washington](http://courses.cs.washington.edu/courses/cse552/)
 
 ## :robot: Circuit Design
+
+- #### :man_teacher: [Cornell ECE Open Courseware](https://ocw.ece.cornell.edu/)
 
 - #### :book: [Lessons in Electric Circuits Book](https://www.allaboutcircuits.com/textbook/)
 
@@ -206,6 +209,8 @@
 
 - #### :man_teacher: [Digital Systems Course by Michael Spivey](https://spivey.oriel.ox.ac.uk/digisys/Digital_Systems)
 
+- #### :man_teacher: [The Great ISAs Course by Adrian Sampson](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
+
 - #### :globe_with_meridians: [Memory Management Reference Web Site](https://www.memorymanagement.org/)
 
 - #### :man_teacher: [Systems Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs6411/2018sp/)
@@ -227,6 +232,8 @@
 - #### :man_teacher: [Computer System Engineering Course by Katrina LaCurts](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 
 - #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
+
+- #### :man_teacher: [Applications of Parallel Computers Course by David Bindel](https://www.cs.cornell.edu/courses/cs5220/2020fa/)
 
 - #### :tv: [Building a Simple Computer From Scratch Videos by Bitwise](https://www.youtube.com/playlist?list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX)
 
@@ -274,7 +281,7 @@
 
 - #### :man_teacher: [Applied Cryptography Course by Tom Ristenpart](https://github.com/tomrist/cs5830-spring2022)
 
-- #### :thought_balloon: [Writing a Linux Debugger Blog Posts by Sy Brand](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+- #### :man_teacher: [Language-Based Security Course by Andrew Myers](https://www.cs.cornell.edu/courses/cs6113/2018fa/)
 
 - #### :man_teacher: [Advanced System Security Course by Fred Schneider](https://www.cs.cornell.edu/courses/cs5432/2021sp/)
 
@@ -289,6 +296,8 @@
 - #### :man_teacher: [Computer Systems Security Course by Nickolai Zeldovich](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
 
 - #### :man_teacher: [Designing Secure Cryptography Course by Tom Ristenpart](https://github.com/cornelltech/CS6831-Spring2019)
+
+- #### :man_teacher: [Practicum in Computer Security Course by Tom Ristenpart](https://github.com/cornelltech/CS5439-Fall2018)
 
 - #### :man_teacher: [Security and Privacy Technologies Course by Tom Ristenpart](https://github.com/tomrist/cs6431-fall2021)
 
@@ -342,6 +351,12 @@
 
 - #### :man_teacher: [Principles of Database Management Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse544/)
 
+## :test_tube: Debugging and Testing
+
+- #### :man_teacher: [Software Testing Course by Owolabi Legunsen](https://www.cs.cornell.edu/courses/cs5154/2021fa/)
+
+- #### :thought_balloon: [Writing a Linux Debugger Blog Posts by Sy Brand](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+
 ## :rooster: Formal Verification
 
 - #### :film_projector: [Types Project Lecture Slides](https://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
@@ -350,9 +365,13 @@
 
 - #### :man_teacher: [Constructive Logic Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15317-f17/)
 
+- #### :man_teacher: [Runtime Verification Course by Owolabi Legunsen](https://www.cs.cornell.edu/courses/cs6156/2022sp/)
+
 - #### :globe_with_meridians: [DeepSpec Summer School on Verified Systems Web Site](https://deepspec.org/event/dsss17/index.html)
 
 - #### :man_teacher: [Safety in Systems Programming Course by Thea Rossman](https://web.stanford.edu/class/cs110l/)
+
+- #### :man_teacher: [Systems and Formal Methods Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs6480/2020sp/)
 
 - #### :man_teacher: [Certified System Software Course by Greg Morrisett and Andrew Myers](https://www.cs.cornell.edu/courses/cs6115/2017fa/)
 
@@ -374,19 +393,27 @@
 
 - #### :man_teacher: [Cloud Computing Course by Evangelia Kalyvianaki](https://www.cl.cam.ac.uk/teaching/2122/CC/materials.html)
 
+- #### :man_teacher: [Advanced Systems Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs6410/2022fa/)
+
 - #### :man_teacher: [Learn How the Internet Works Tutorial by Ben Eater](https://eater.net/inet)
 
 - #### :man_teacher: [Distributed Systems Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/739/Fall2018/)
 
 - #### :thought_balloon: [Let's Code a TCP/IP Stack Blog Posts by Sami Niiranen](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 
+- #### :man_teacher: [Cornell Systems Lunch Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs7490/2022fa/)
+
 - #### :tv: [Professional Network Design Videos by Viktor Engelmann](https://www.youtube.com/playlist?list=PLHh55M_Kq4OCZOAxs2KZyCawhX38YR154)
 
 - #### :man_teacher: [Distributed Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse452/)
 
+- #### :man_teacher: [Languages for Computer Networks Course by Nate Foster](https://cornell-pl.github.io/cs6114/)
+
 - #### :man_teacher: [Distributed Computing Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs5414/2020fa/)
 
 - #### :globe_with_meridians: [The Illustrated QUIC Connection Web Site by Michael Driscoll](https://quic.ulfheim.net/)
+
+- #### :man_teacher: [Computer Communication Networks Course by Rachit Agarwal](https://www.cs.cornell.edu/courses/cs6450/2019fa/)
 
 - #### :man_teacher: [Communication Systems Engineering Course by Eytan Modiano](https://ocw.mit.edu/courses/16-36-communication-systems-engineering-spring-2009/)
 
@@ -459,6 +486,8 @@
 - #### :man_teacher: [Distributed and Operating Systems Course by Prashant Shenoy](https://none.cs.umass.edu/~shenoy/courses/677/lectures.html)
 
 - #### :tv: [Write Your Own Operating System Videos by Viktor Engelmann](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+
+- #### :man_teacher: [Practicum in Operating Systems Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs4411/2022sp/)
 
 - #### :book: [Comprehensive Guide To UEFI Programming by Natalia Cholewa](https://natanalt.github.io/uefi-guide/)
 
@@ -576,11 +605,15 @@
 
 - #### :man_teacher: [Programming Languages Graduate Course from Univerity of Washington](https://courses.cs.washington.edu/courses/csep505/)
 
+- #### :man_teacher: [An Introduction to Constructive Type Theory Course by Robert Constable](https://www.cs.cornell.edu/courses/cs6180/2017fa/)
+
 - #### :tv: [Structure and Interpretation of Computer Programs Videos by Code Report](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
 
 - #### :man_teacher: [Concrete Semantics with Isabelle/HOL Book by Tobias Nipkow and Gerwin Klein](http://concrete-semantics.org/)
 
 - #### :man_teacher: [Programming Languages & Implementation Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse413/)
+
+- #### :man_teacher: [Great Works in Programming Languages Course by Nate Foster and Rachit Nigam](https://www.cs.cornell.edu/courses/cs7194/2019sp/)
 
 - #### :man_teacher: [Introduction to Computational Semantics Course by Weiwei Sun and Simone Teufel](https://www.cl.cam.ac.uk/teaching/2122/L98/materials.html)
 
