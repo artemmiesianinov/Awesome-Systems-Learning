@@ -62,6 +62,10 @@
 
 - #### :thought_balloon: [Say Hello to x86_64 Assembly Blog Posts by 0xAX](https://0xax.github.io/archive/)
 
+- #### :tv: [6502 Assembly Crash Course Videos by NesHacker](https://www.youtube.com/playlist?list=PLgvDB6LWam2WvoFvh8tlUqbqw92qWM0aP)
+
+- #### :man_teacher: [Introduction to NASM Course by Muhammed Yazar](https://github.com/pbhopalka/NASM)
+
 - #### :book: [ARM Assembly Programming Book by Perry Kivolowitz](https://github.com/pkivolowitz/asm_book)
 
 - #### :thought_balloon: [Writing a Tiny x86 Bootloader Blog Post by Joe Bergeron](https://www.joe-bergeron.com/posts/Writing%20a%20Tiny%20x86%20Bootloader/)
