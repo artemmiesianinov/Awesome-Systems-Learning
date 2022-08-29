@@ -1,13 +1,4 @@
-# :bulb: **Awesome Systems Programming** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Awesome-Systems-Programming/pulls)
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Forks][forks-shield]][forks-url]
-[![License][license-shield]][license-url]
+# :sunglasses: :bulb: **Awesome Systems Learning**
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2018/gifs/2018_45_hexagonpath.gif">
@@ -17,7 +8,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_teacher: Collection of the most awesome learning resources on systems programming in the form of videos, courses and tutorials.
+## :man_student: Collection of the most awesome learning resources on systems programming in the form of videos, courses and tutorials.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -662,16 +653,3 @@
 - #### :man_teacher: [Modern Binary Exploitation Course by Rensselaer Polytechnic Institute](https://github.com/RPISEC/MBE)
 
 - #### :man_teacher: [Introduction to Reverse Engineering Course by Jonathan Katz and others](https://gitlab.com/drakemp/cmsc389j)
-
-<!-- MARKDOWN LINKS -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/tensorush/Awesome-Systems-Programming.svg?style=for-the-badge
-[contributors-url]: https://github.com/tensorush/Awesome-Systems-Programming/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/tensorush/Awesome-Systems-Programming.svg?style=for-the-badge
-[issues-url]: https://github.com/tensorush/Awesome-Systems-Programming/issues
-[stars-shield]: https://img.shields.io/github/stars/tensorush/Awesome-Systems-Programming.svg?style=for-the-badge
-[stars-url]: https://github.com/tensorush/Awesome-Systems-Programming/stargazers
-[forks-shield]: https://img.shields.io/github/forks/tensorush/Awesome-Systems-Programming.svg?style=for-the-badge
-[forks-url]: https://github.com/tensorush/Awesome-Systems-Programming/network/members
-[license-shield]: https://img.shields.io/github/license/tensorush/Awesome-Systems-Programming.svg?style=for-the-badge
-[license-url]: https://github.com/tensorush/Awesome-Systems-Programming/blob/master/LICENSE.md
