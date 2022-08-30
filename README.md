@@ -8,7 +8,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_student: Collection of the most awesome learning resources on systems programming in the form of videos, courses and tutorials.
+## :man_student: Collection of the most awesome learning resources on computer systems in the form of videos, courses and tutorials.
 
 > ### Contributions are very welcome! :hugs:
 
@@ -421,6 +421,8 @@
 - #### :man_teacher: [Data Communication Networks Course by Dimitri Bertsekas and Eytan Modiano](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/)
 
 - #### :book: [Computer Networking: A Top-down Approach Book by Jim Kurose and Keith Ross](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+
+- #### :book: [Computer Networks: A Systems Approach Book by Larry Peterson and Bruce Davie](https://book.systemsapproach.org/)
 
 - #### :man_teacher: [Digital Communication Systems Course by Hari Balakrishnan and George Verghese](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/pages/lecture-slides/)
 
