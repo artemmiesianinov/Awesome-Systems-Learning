@@ -444,6 +444,8 @@
 
 - #### :man_teacher: [Operating Systems Course by Eike Ritter](https://www.cs.bham.ac.uk/~exr/teaching/lectures/opsys/15_16/)
 
+- #### :tv: [Operating Systems Videos by Neil Rhodes](https://www.youtube.com/playlist?list=PL2Yggtk_pK6-R9ehjj0AoTnWrNOLChuld)
+
 - #### :man_teacher: [Operating Systems Course by Charles Reiss](https://www.cs.virginia.edu/~cr4bd/4414/S2022/)
 
 - #### :man_teacher: [Operating Systems Course by Richard Mortier](https://www.cl.cam.ac.uk/teaching/2122/OpSystems/materials.html)
