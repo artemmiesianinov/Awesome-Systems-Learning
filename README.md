@@ -226,6 +226,8 @@
 
 - #### :man_teacher: [Computer System Engineering Course by Katrina LaCurts](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 
+- #### :man_teacher: [Concepts in Multicore Computing Course by Angelina Lee](https://www.cse.wustl.edu/~angelee/archive/cse539/spr15/)
+
 - #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
 
 - #### :man_teacher: [Applications of Parallel Computers Course by David Bindel](https://www.cs.cornell.edu/courses/cs5220/2020fa/)
