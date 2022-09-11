@@ -354,6 +354,8 @@
 
 - #### :thought_balloon: [Writing a Linux Debugger Blog Posts by Sy Brand](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 
+- #### :tv: [Advanced Debugging with GDB Video by Viktor Engelmann](https://www.youtube.com/watch?v=Rudz-uSdWHM)
+
 ## :rooster: Formal Verification
 
 - #### :film_projector: [Types Project Lecture Slides](https://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
@@ -479,6 +481,8 @@
 - #### :man_teacher: [Advanced Operating Systems Course by Robert Watson](https://www.cl.cam.ac.uk/teaching/2122/AOS/materials.html)
 
 - #### :thought_balloon: [Roll your own toy UNIX-clone OS Blog Posts by James Molloy](http://jamesmolloy.co.uk/tutorial_html/)
+
+- #### :tv: [Build a LinuxFromScratch System Videos by Viktor Engelmann](https://www.youtube.com/playlist?list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
 
 - #### :man_technologist: [How to Create an OS from Scratch Tutorial by Carlos Fenollosa](https://github.com/cfenollosa/os-tutorial)
 
