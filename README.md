@@ -22,6 +22,7 @@
 - [:shield: Computer Security](#shield-computer-security)
 - [:card_file_box: Database Systems](#card_file_box-database-systems)
 - [:test_tube: Debugging and Testing](#test_tube-debugging-and-testing)
+- [:bed: Embedded Systems](#bed-embedded-systems)
 - [:rooster: Formal Verification](#rooster-formal-verification)
 - [:spider_web: Network Systems](#spider_web-network-systems)
 - [:lady_beetle: Operating Systems](#lady_beetle-operating-systems)
@@ -86,6 +87,8 @@
 
 - #### :man_teacher: [Distributed and Parallel Systems Graduate Course from University of Washington](http://courses.cs.washington.edu/courses/cse552/)
 
+- #### :man_teacher: [Blockchains and Distributed Ledgers Course by Aggelos Kiayias and Dimitris Karakostas](https://github.com/dimkarakostas/blockchaincourse)
+
 ## :robot: Circuit Design
 
 - #### :man_teacher: [Cornell ECE Open Courseware](https://ocw.ece.cornell.edu/)
@@ -103,6 +106,8 @@
 - #### :tv: [Analog Circuits Videos by Jordan Edmunds](https://www.youtube.com/playlist?list=PLQms29D1RqeKZOu_iYDCxXw8w_yydvRMS)
 
 - #### :tv: [Analog Circuit Design Videos by Ali Hajimiri](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
+
+- #### :man_teacher: [Digital Circuit Design Course by Eric Hehner](http://www.cs.toronto.edu/~hehner/DCD/)
 
 - #### :man_teacher: [Digital Circuit Design Course by Onur Mutlu](https://safari.ethz.ch/digitaltechnik/doku.php)
 
@@ -198,8 +203,6 @@
 
 ## :cityscape: Computer Architecture
 
-- #### :globe_with_meridians: [Zig Embedded Group Web Site](https://zeg.random-projects.net/)
-
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
 
 - #### :man_teacher: [Digital Systems Course by Michael Spivey](https://spivey.oriel.ox.ac.uk/digisys/Digital_Systems)
@@ -228,8 +231,6 @@
 
 - #### :man_teacher: [Concepts in Multicore Computing Course by Angelina Lee](https://www.cse.wustl.edu/~angelee/archive/cse539/spr15/)
 
-- #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
-
 - #### :man_teacher: [Applications of Parallel Computers Course by David Bindel](https://www.cs.cornell.edu/courses/cs5220/2020fa/)
 
 - #### :tv: [Building a Simple Computer From Scratch Videos by Bitwise](https://www.youtube.com/playlist?list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX)
@@ -243,10 +244,6 @@
 - #### :man_teacher: [Computer Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse550/)
 
 - #### :man_teacher: [Computer Architecture and Engineering Course by John Wawrzynek](https://inst.eecs.berkeley.edu/~cs152/sp22/)
-
-- #### :man_teacher: [Software for Embedded Systems Course from Univerity of Washington](https://courses.cs.washington.edu/courses/cse466/)
-
-- #### :man_teacher: [Introduction to Embedded Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse474/)
 
 - #### :man_teacher: [Systems Programming and Machine Organization Course by Eddie Kohler](https://cs61.seas.harvard.edu/site/2021/)
 
@@ -356,11 +353,25 @@
 
 - #### :tv: [Advanced Debugging with GDB Video by Viktor Engelmann](https://www.youtube.com/watch?v=Rudz-uSdWHM)
 
+## :bed: Embedded Systems
+
+- #### :globe_with_meridians: [Zig Embedded Group Web Site](https://zeg.random-projects.net/)
+
+- #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
+
+- #### :man_teacher: [Foundations of Embedded Systems Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/4980/Spring20/)
+
+- #### :man_teacher: [Software for Embedded Systems Course from Univerity of Washington](https://courses.cs.washington.edu/courses/cse466/)
+
+- #### :man_teacher: [Introduction to Embedded Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse474/)
+
 ## :rooster: Formal Verification
 
 - #### :film_projector: [Types Project Lecture Slides](https://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
 
 - #### :book: [Software Foundations Book Series](https://softwarefoundations.cis.upenn.edu/)
+
+- #### :man_teacher: [Logic and Verification Courses from TUM](https://www21.in.tum.de/teaching.html)
 
 - #### :man_teacher: [Constructive Logic Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15317-f17/)
 
@@ -370,9 +381,17 @@
 
 - #### :man_teacher: [Safety in Systems Programming Course by Thea Rossman](https://web.stanford.edu/class/cs110l/)
 
+- #### :man_teacher: [Formal Methods of Software Design Course by Eric Hehner](http://www.cs.toronto.edu/~hehner/FMSD/)
+
 - #### :man_teacher: [Systems and Formal Methods Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs6480/2020sp/)
 
+- #### :man_teacher: [Formal Methods in Software Engineering Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/5810/Fall22/)
+
+- #### :man_teacher: [Formal Methods in Software Development Course by Laura Dillon](https://www.cse.msu.edu/~cse814/)
+
 - #### :man_teacher: [Certified System Software Course by Greg Morrisett and Andrew Myers](https://www.cs.cornell.edu/courses/cs6115/2017fa/)
+
+- #### :man_teacher: [Formal Mathematics and Proof Assistants Course by Josef Urban and Chad Brown](http://arg.ciirc.cvut.cz/fmpa/)
 
 ## :spider_web: Network Systems
 
@@ -614,7 +633,7 @@
 
 - #### :tv: [Structure and Interpretation of Computer Programs Videos by Code Report](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0)
 
-- #### :man_teacher: [Concrete Semantics with Isabelle/HOL Book by Tobias Nipkow and Gerwin Klein](http://concrete-semantics.org/)
+- #### :book: [Concrete Semantics with Isabelle/HOL Book by Tobias Nipkow and Gerwin Klein](http://concrete-semantics.org/)
 
 - #### :man_teacher: [Programming Languages & Implementation Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse413/)
 
