@@ -371,6 +371,10 @@
 
 - #### :book: [Software Foundations Book Series](https://softwarefoundations.cis.upenn.edu/)
 
+- #### :tv: [Model Checking Videos by B. Srivathsan](https://www.youtube.com/playlist?list=PLK50zIm6tHRiKFJvKu1a7q_z2tcXnBUHp)
+
+- #### :man_teacher: [Proof Automation Course by Talia Ringer](https://dependenttyp.es/classes/598fa2022.html)
+
 - #### :man_teacher: [Logic and Verification Courses from TUM](https://www21.in.tum.de/teaching.html)
 
 - #### :man_teacher: [Constructive Logic Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15317-f17/)
@@ -384,6 +388,8 @@
 - #### :man_teacher: [Formal Methods of Software Design Course by Eric Hehner](http://www.cs.toronto.edu/~hehner/FMSD/)
 
 - #### :man_teacher: [Systems and Formal Methods Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs6480/2020sp/)
+
+- #### :tv: [Introduction to Model Checking Videos by Joost-Pieter Katoen](https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh)
 
 - #### :man_teacher: [Formal Methods in Software Engineering Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/5810/Fall22/)
 
