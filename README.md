@@ -377,6 +377,8 @@
 
 - #### :man_teacher: [Logic and Verification Courses from TUM](https://www21.in.tum.de/teaching.html)
 
+- #### :man_teacher: [The TLA+ Video Course by Leslie Lamport](https://lamport.azurewebsites.net/video/videos.html)
+
 - #### :man_teacher: [Constructive Logic Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15317-f17/)
 
 - #### :man_teacher: [Runtime Verification Course by Owolabi Legunsen](https://www.cs.cornell.edu/courses/cs6156/2022sp/)
