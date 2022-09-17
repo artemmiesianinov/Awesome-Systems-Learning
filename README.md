@@ -499,6 +499,8 @@
 
 - #### :man_teacher: [Operating Systems Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs4410/2022sp/)
 
+- #### :man_teacher: [System Programming Course by Vladislav Shpilevoy](https://github.com/Gerold103/sysprog)
+
 - #### :man_teacher: [Writing an OS in Rust Course by Philipp Oppermann](https://os.phil-opp.com/)
 
 - #### :man_teacher: [Operating Systems Engineering Course by Adam Belay](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
