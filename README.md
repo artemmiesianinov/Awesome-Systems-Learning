@@ -76,7 +76,6 @@
 
 - #### :book: [Programming with 64-Bit ARM Assembly Language Book by Stephen Smith](https://github.com/Apress/programming-with-64-bit-ARM-assembly-language)
 
-
 ## :chains: Blockchain Technology
 
 - #### :tv: [Whiteboard Interviews by NEAR](https://www.youtube.com/playlist?list=PL9tzQn_TEuFWweVbfTbaedFdwVrvaYPq4)
@@ -306,6 +305,8 @@
 - #### :man_teacher: [Computer & Network Security Course by Noah Miller and others](https://breakerspace.notion.site/CMSC-414-Fall-2021-University-of-Maryland-4e399eecae8340108fcffff5ce9be44c)
 
 - #### :man_teacher: [Software Foundations of Security and Privacy Course by Jean Yang](https://github.com/jeanqasaur/cmu-15316-spring17)
+
+- #### :writing_hand: [Cryptography Lecture Notes by Shafi Goldwasser and Mihir Bellare](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf)
 
 - #### :man_teacher: [Introduction to Linux Security Course by Brad Causey and Bobby Rogers](https://www.vtc.com/products/linux-security-tutorials.htm)
 
