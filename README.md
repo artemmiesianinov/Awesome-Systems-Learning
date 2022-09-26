@@ -412,11 +412,17 @@
 
 - #### :man_teacher: [Computer Networks Course by Nirupam Roy](https://www.cs.umd.edu/class/spring2022/cmsc417/)
 
+- #### :man_teacher: [Distributed Systems Course by Chris Colohan](http://www.distributedsystemscourse.com/)
+
 - #### :man_teacher: [Distributed Systems Course by Robert Morris](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+- #### :man_teacher: [Distributed Systems Course by Dave Andersen](https://www.cs.cmu.edu/~dga/15-440/S14/syllabus.html)
 
 - #### :man_teacher: [Distributed Systems Course by Nick DeMarinis](http://cs.brown.edu/courses/csci1680/s22/)
 
 - #### :man_teacher: [Computer Networks Course by Rachit Agarwal](https://www.cs.cornell.edu/courses/cs4450/2021sp/)
+
+- #### :man_teacher: [Distributed Computing Courses from ETH Zürich](https://disco.ethz.ch/courses)
 
 - #### :man_teacher: [Computer Networking Course by Andrew Moore](https://www.cl.cam.ac.uk/teaching/2122/CompNet/materials.html)
 
@@ -439,6 +445,10 @@
 - #### :man_teacher: [Languages for Computer Networks Course by Nate Foster](https://cornell-pl.github.io/cs6114/)
 
 - #### :man_teacher: [Distributed Computing Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs5414/2020fa/)
+
+- #### :man_teacher: [Reliable Distributed Algorithms Part I Course by Seif Haridi](https://courses.edx.org/courses/course-v1:KTHx+ID2203.1x+3T_2017/4dfab083f34f40e89f989d06cec55a44/)
+
+- #### :man_teacher: [Reliable Distributed Algorithms Part II Course by Seif Haridi](https://courses.edx.org/courses/course-v1:KTHx+ID2203.2x+2016T4/4dfab083f34f40e89f989d06cec55a44/)
 
 - #### :globe_with_meridians: [The Illustrated QUIC Connection Web Site by Michael Driscoll](https://quic.ulfheim.net/)
 
