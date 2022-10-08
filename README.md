@@ -246,6 +246,8 @@
 
 - #### :man_teacher: [Computer Architecture and Engineering Course by John Wawrzynek](https://inst.eecs.berkeley.edu/~cs152/sp22/)
 
+- #### :man_teacher: [Introduction to Computer Systems Course by Randal Bryant and others](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/schedule.html)
+
 - #### :man_teacher: [Systems Programming and Machine Organization Course by Eddie Kohler](https://cs61.seas.harvard.edu/site/2021/)
 
 - #### :man_teacher: [Introduction to Computer Systems Course by Zack Weinberg and Kyle Liang](https://www.cs.cmu.edu/~213/)
